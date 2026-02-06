@@ -26,7 +26,7 @@ Text data is converted into numerical vectors using **TF-IDF Vectorization** (`T
 The following models were implemented:
 - **Logistic Regression**
 - **Random Forest Classifier**
-- **DEcision Tree Classifier**
+- **Decision Tree Classifier**
 - **Linear SVM Classifier**
 - **Multinomial Naive Bayes**
 - **KNN**
