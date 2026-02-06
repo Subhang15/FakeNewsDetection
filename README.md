@@ -29,4 +29,4 @@ Each article contains a title, body text, subject, and publication date.
 1. Clone this repository.
 2. Ensure you have the datasets `Fake.csv` and `True.csv` in the same directory as the notebook.
 3. Install dependencies: `pip install -r requirements.txt`.
-4. Open and run `MLProto1 (5) (3) (3)(1).ipynb` in Jupyter Notebook or Google Colab.
+4. Open and run `FakeNewsDetection.ipynb` in Jupyter Notebook or Google Colab.
